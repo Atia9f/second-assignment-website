@@ -450,11 +450,11 @@ background: rgba(255, 255, 255, 0.80);
 backdrop-filter: blur(2.5px);
 }
 .deal-card{
-    background-image: url('../images/Rectangle\ 12.png');
+    background-image: url('../Images/Rectangle\ 12.png');
     margin-bottom: 24px;
 }
 .deal-card-middle{
-    background-image: url('../images/Rectangle\ 12.png');
+    background-image: url('../Images/Rectangle\ 12.png');
     margin-bottom: 24px;
 }
 .deal-card-last{
