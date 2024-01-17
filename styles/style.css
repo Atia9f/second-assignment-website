@@ -9,6 +9,9 @@
 body{
     font-family: 'Mulish', sans-serif;
     box-sizing: border-box;
+    /* width: 1170px; */
+    max-width: 1440px;
+    margin: 0 auto;
 }
 
 /* header section style */
