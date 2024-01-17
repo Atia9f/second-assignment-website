@@ -665,18 +665,19 @@ footer{
     }
     .explore{
         width: 70%;
+        padding: 10px;
     }
     .banner-title, .popular-title{
         font-size: 22px;
 
     }
     .explore input{
-        margin-bottom: 16px;
-        width: 255px;
+        margin-bottom: 10px;
+        width: 200px;
     }
   .explore select{
-    margin-bottom: 16px;
-    width: 255px;
+    margin-bottom: 10px;
+    width: 200px;
   }
     
 
@@ -761,5 +762,8 @@ flex-shrink: 0;
 }
 .about-image{
     grid-template-columns: 1fr;
+}
+.banner-description{
+    margin-bottom: 30px;
 }
 }
