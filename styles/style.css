@@ -656,11 +656,12 @@ footer{
         margin-bottom: 16px;
         width: 255px;
     }
-    .explore select{
-        margin-bottom: 16px;
-        width: 255px;
-    }
-   
+  .explore select{
+    margin-bottom: 16px;
+    width: 255px;
+  }
+    
+
   .popular, .choose-middle, .place, .newsletter{
     width: 90%;
     flex-direction: column;
